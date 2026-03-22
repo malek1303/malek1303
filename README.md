@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
 <h3 align="center">I am an Electronics and Communications Engineering student based in Egypt, deeply passionate about Embedded Systems and low-level programming. Currently, I lead the Embedded Systems Committee at IEEE, where I help others dive into the world of microcontrollers.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malek1303" alt="malek1303" /></a> </p>
+### 🏆 GitHub Trophies & Stats
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=malek1303&show_icons=true&theme=dark&hide_border=true" alt="malek1303 stats" />
+  </a>
+</p>
 
 ## ⚡ About Me
 * **Main OS:** Arch Linux (I use Arch, btw).

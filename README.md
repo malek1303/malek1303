@@ -3,14 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malek1303" alt="malek1303" /></a> </p>
 
-- Proud Arch Linux user (I use Arch, btw).
+## ⚡ About Me
+* **Main OS:** Arch Linux (I use Arch, btw).
+* **Current Project:** 🔭 Developing a custom low-level driver library for **ATmega32** (HAL, MCAL, LIB).
+* **Learning:** 🌱 Deepening my knowledge in **RTOS** and high-speed PCB design.
+* **Community:** 🎓 Head of the Embedded Systems Committee at **IEEE**.
 
-- 🔭 I’m currently working on **Atmega32 drivers**
-
-- 🌱 I’m currently learning **more about Embedded systems and Electronics**
-
-- 📫 How to reach me **malekmahdy@ieee.org or malek0002@gmail.com**
-
+## 📫 Let's Connect
+* **Professional:** [malekmahdy@ieee.org](mailto:malekmahdy@ieee.org)
+* **Personal:** [malek0002@gmail.com](mailto:malek0002@gmail.com)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/malek-mahdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malek-mahdy" height="30" width="40" /></a>

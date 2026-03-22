@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
-<h3 align="center">I am an Electronics and Communications Engineering student based in Egypt, deeply passionate about Embedded Systems and low-level programming. Currently, I lead the Embedded Systems Committee at IEEE, where I help others dive into the world of microcontrollers.</h3>
+<h3 align="center">I am an Electronics and Communications Engineering student based in Egypt, deeply passionate about Embedded Systems and low-level programming. Currently, I lead the Embedded Systems Committee at IEEE MUST SB, where I help others dive into the world of microcontrollers.</h3>
 
 ### 🏆 GitHub Trophies & Stats
 <p align="left">

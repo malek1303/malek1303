@@ -12,7 +12,7 @@
 * **Main OS:** Arch Linux (I use Arch, btw).
 * **Current Project:** 🔭 Developing a custom low-level driver library for **ATmega32** (HAL, MCAL, LIB).
 * **Learning:** 🌱 Deepening my knowledge in **RTOS** and high-speed PCB design.
-* **Community:** 🎓 Head of the Embedded Systems Committee at **IEEE**.
+* **Community:** 🎓 Head of the Embedded Systems Committee at **IEEE MUST SB**.
 
 ## 📫 Let's Connect
 * **Professional:** [malekmahdy@ieee.org](mailto:malekmahdy@ieee.org)

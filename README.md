@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
 <h3 align="center">I am an Electronics and Communications Engineering student based in Egypt, deeply passionate about Embedded Systems and low-level programming. Currently, I lead the Embedded Systems Committee at IEEE MUST SB, where I help others dive into the world of microcontrollers.</h3>
 
-### 🏆 GitHub Trophies & Stats
+###  GitHub Trophies & Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=malek1303&show_icons=true&theme=dark&hide_border=true" alt="malek1303 stats" />
@@ -10,11 +10,11 @@
 
 ## ⚡ About Me
 * **Main OS:** Arch Linux (I use Arch, btw).
-* **Current Project:** 🔭 Developing a custom low-level driver library for **ATmega32** (HAL, MCAL, LIB).
-* **Learning:** 🌱 Deepening my knowledge in **RTOS** and high-speed PCB design.
-* **Community:** 🎓 Head of the Embedded Systems Committee at **IEEE MUST SB**.
+* **Current Project:**  Developing a custom low-level driver library for **ATmega32** (HAL, MCAL, LIB).
+* **Learning:**  Deepening my knowledge in **RTOS** and high-speed PCB design.
+* **Community:**  Head of the Embedded Systems Committee at **IEEE MUST SB**.
 
-## 📫 Let's Connect
+##  Let's Connect
 * **Professional:** [malekmahdy@ieee.org](mailto:malekmahdy@ieee.org)
 * **Personal:** [malek0002@gmail.com](mailto:malek0002@gmail.com)
   
